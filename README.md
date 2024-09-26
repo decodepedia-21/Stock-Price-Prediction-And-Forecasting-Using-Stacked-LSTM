@@ -2,7 +2,7 @@
 This project focuses on predicting stock prices using Stacked Long Short-Term Memory (LSTM) networks, a deep learning model that excels at time-series forecasting. LSTMs are particularly suited for stock market prediction due to their ability to retain information over long sequences, making them effective for modeling historical price trends.
 
 Key Steps:
-Data Preprocessing:
++ **Data Preprocessing:**
 
 Collected historical stock price data, including features like open, close, high, low prices, and trading volume.
 Handled missing data and normalized the dataset for consistent input to the model.
