@@ -21,7 +21,6 @@ Key Steps:
   Evaluated the model's ability to predict future stock prices over varying time horizons.
   
 + **Results:**
-
   The Stacked LSTM model achieved reliable accuracy in forecasting stock prices, effectively capturing trends and patterns in historical data.
   Visualized the predicted vs. actual stock prices to demonstrate the model's predictive capability.
   This project showcases how deep learning models like Stacked LSTM can be used for financial market forecasting, offering insights for investors and traders by predicting future stock price movements.
